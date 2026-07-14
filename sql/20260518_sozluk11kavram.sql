@@ -1,0 +1,11 @@
+INSERT INTO `refmember`.`sozluk` (`sozKavram`, `sozTanim`) VALUES ('Aldatma', 'Haksız bir avantaj kazanmak için yapılan, gerçekleşmemiş bir şeyi hatalı izlenim vererek gerçekleşmiş gibi gösteren hareket.');
+INSERT INTO `refmember`.`sozluk` (`sozKavram`, `sozTanim`) VALUES ('Ciddi Faullü Oyun', 'Top için mücadele ederken rakibin güvenliğini tehlikeye sokacak şekilde veya acımasızca ayakla müdahale edilmesi.');
+INSERT INTO `refmember`.`sozluk` (`sozKavram`, `sozTanim`) VALUES ('Hızlı Serbest Vuruş', 'Serbest vuruşun (hakemin izni ile) seri şekilde kullanılması.');
+INSERT INTO `refmember`.`sozluk` (`sozKavram`, `sozTanim`) VALUES ('İhraç', 'Oyuncunun oyun alanını terk etmesini gerektiren disiplin uygulaması, kırmızı kart.');
+INSERT INTO `refmember`.`sozluk` (`sozKavram`, `sozTanim`) VALUES ('İhtar', 'Oyuncunun sınırlarının hatırlatılıp uyarıldığı disiplin uygulaması, sarı kart.');
+INSERT INTO `refmember`.`sozluk` (`sozKavram`, `sozTanim`) VALUES ('Kandırma', 'Oyuncunun veya takımın menfaatine olacak şekilde yanlış karar/ceza vermesi için hakemi yanlış yönlendirmek.');
+INSERT INTO `refmember`.`sozluk` (`sozKavram`, `sozTanim`) VALUES ('Saha Dışı Kişi', 'Maç görevlisi olmayan veya takım listesinde bulunmayan herhangi bir kişi, hayvan, nesne, yapı vb.');
+INSERT INTO `refmember`.`sozluk` (`sozKavram`, `sozTanim`) VALUES ('Şiddetli Hareket', 'Top için mücadele yokken bir rakibe karşı aşırı güç kullanılması/kullanılma teşebbüsü veya başka birinin başına/yüzüne bilerek vurulması.');
+INSERT INTO `refmember`.`sozluk` (`sozKavram`, `sozTanim`) VALUES ('Takım Görevlisi', 'Takım listesindeki oyuncu olmayan kişiler; antrenör, fizyoterapist vb.');
+INSERT INTO `refmember`.`sozluk` (`sozKavram`, `sozTanim`) VALUES ('Tekrar Başlatma', 'Oyunun durdurulduktan sonra devam etmesi için kullanılan herhangi bir yöntem.');
+INSERT INTO `refmember`.`sozluk` (`sozKavram`, `sozTanim`) VALUES ('Vuruş', 'Bir oyuncunun topa ayağıyla ve/veya ayak bileğiyle temas etmesi.');
