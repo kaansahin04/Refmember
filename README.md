@@ -9,7 +9,8 @@ Oyun kurallarını belirleyen "IFAB (International Football Association Board)" 
 2) Eclipse uygulamasında <strong>New>Project>Java Project</strong> şeklinde ilerleyip yeni proje oluşturun.
 3) Projeyi oluşturduğunuzda otomatik olarak gelen <b>src</b> klasöründe <strong>Sağ Tık>Import>General>File System</strong> şeklinde ilerleyin.
 4) Projeyi <b>clone</b>'ladığınızda bilgisayarınızda oluşan klasörün altındaki <b>src</b> klasörünü seçip import işlemini tamamlayın.
-5) <b>Main.java</b> dosyasını çalıştırın.
+5) CMD terminaline girin; uvicorn sunucusu yüklü değilse "pip insanlar uvicorn" komutu ile yükleyin, zaten yüklü ise terminal üzerinde "yz" klasörüne girip "uvicorn main:app --reload" komutu ile sunucuyu çalıştırın. Yapay zekâ tahminine yönelik gerekli bağlantı için açık olması şart.
+6) <b>Main.java</b> dosyasını çalıştırın.
 <p>Keyifli öğrenmeler, bol puanlar...</p>
 
 ## Durum
